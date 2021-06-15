@@ -2,8 +2,7 @@
 <p></p>
 Para baixar os arquivos clique em "CODE" e então em "download zip". Descompacte os arquivos.
 <p></p>
-O arquivo inicial é o "index.html", dele você consegue chegar em qualquer outro arquivo.
-A partir daí, divirta-se tanto quanto eu me diverti realizando esse projeto!
+O arquivo inicial é o "index.html".A partir daí, divirta-se tanto quanto eu me diverti realizando esse projeto!
 <p></p>
 Sugestão de Fluxo:
 <p></p>
