@@ -1,4 +1,4 @@
-Bem vindo!
+Bem vindo! Clique em "README.md" acima para ler suavemente
 Para executar o programa, baixe os arquivos e então abra a página inicial(index.html)
 A partir daí, divirta-se tanto quanto eu me diverti realizando esse projeto!
 Sugestão de Fluxo:
