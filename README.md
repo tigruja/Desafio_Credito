@@ -3,10 +3,10 @@
 Para baixar os arquivos clique em "CODE" e então em "download zip". Descompacte os arquivos.
 <p></p>
 O arquivo inicial é o "index.html", dele você consegue chegar em qualquer outro arquivo.
-<p></p>
 A partir daí, divirta-se tanto quanto eu me diverti realizando esse projeto!
 <p></p>
 Sugestão de Fluxo:
+<p></p>
 1-Abrir a página index.html(não deve demorar mais do que 20 segundos)
 <p></p>
 2-Clicar em "Saiba mais!" e "Empréstimo"
