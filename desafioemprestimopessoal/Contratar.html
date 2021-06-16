@@ -29,19 +29,21 @@
         <section class="content-section bg-light" id="about">
             <div class="container px-4 px-lg-5 text-center">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
-                    <div class="col-lg-10" >
-                        <h2>Para realizar um contrato, você precisa estar cadastrado em nossa instituição</h2>
-                        <h2 onclick="location.href='Finalizando.html'" style="Color: Aqua;">Já tenho uma conta</h2>
-                        <h6>(O sistema de login não foi implementado, clique em "já tenho uma conta")</h6>
-                        <label for="email">Email:<input type="text" placeholder="digite aqui" id="email"></label>
-                        <p></p>
-                        <label for="CPF">CPF:<input type="text" placeholder="digite aqui" id="CPF"></label>
-                        <p></p>
-                        <label for="password">Senha:<input type="text" placeholder="digite aqui" id="password"></label>
-                        <p></p>
-                        <label for="password_confirmation">Confirmar Senha:<input type="text" placeholder="digite aqui" id="password_confirmation"></label>
-                        <p></p>
-                        <button>Criar conta</button>
+                    <div>
+                        <form>
+                            <h2>Para realizar um contrato, você precisa estar cadastrado em nossa instituição</h2>
+                            <h2 onclick="location.href='Finalizando.html'" style="Color: Aqua;-webkit-text-stroke-width: 1px;-webkit-text-stroke-color: #000;">Já tenho uma conta</h2>
+                            <h6>(O sistema de login não foi implementado, clique em "já tenho uma conta")</h6>
+                            <label for="email">Email:</label><br>
+                            <input style="border-radius: 20px; padding: 5px;" type="text" placeholder="Email" id="email"><br>
+                            <label for="CPF">CPF:</label><br>
+                            <input style="border-radius: 20px; padding: 5px;" type="text" placeholder="CPF" id="CPF"><br>
+                            <label for="password">Senha:</label><br>
+                            <input style="border-radius: 20px; padding: 5px;" type="text" placeholder="Senha" id="password"><br>
+                            <label for="password_confirmation">Confirmar Senha:</label><br>
+                            <input style="border-radius: 20px; padding: 5px;" type="text" placeholder="Confirmar Senha" id="password_confirmation"><br>
+                            <button>Criar conta</button>
+                        </form>
                     </div>
                 </div>
             </div>
